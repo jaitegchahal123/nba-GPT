@@ -17,7 +17,7 @@ from langchain.prompts import PromptTemplate
 
 
 
-os.environ["OPENAI_API_KEY"] = st.secrets["APIKEY"]
+os.environ["OPENAI_API_KEY"] = st.secrets["openai_secret_key"]
 
 # Display the text in the upper corner
 st.markdown(
