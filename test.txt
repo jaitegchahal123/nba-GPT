@@ -1,4 +1,6 @@
-recious Achiuwa:
+Test file with smaller data: 
+
+Precious Achiuwa:
   SEASON_ID     TEAM_ID TEAM_ABBREVIATION  PLAYER_AGE  GP  GS     MIN  FGM  FGA  FG_PCT  FG3M  FG3A  FG3_PCT  FTM  FTA  FT_PCT  OREB  DREB  REB  AST  STL  BLK  TOV   PF  PTS
 0   2020-21  1610612748               MIA        21.0  61   4   737.0  124  228   0.544     0     1    0.000   56  110   0.509    73   135  208   29   20   28   43   91  304
 1   2021-22  1610612761               TOR        22.0  73  28  1725.0  265  603   0.439    56   156    0.359   78  131   0.595   146   327  473   82   37   41   84  151  664
