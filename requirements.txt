@@ -1,0 +1,5 @@
+langchain==0.0.227
+nba_api==1.2.1
+pandas==1.5.3
+Requests==2.31.0
+streamlit==1.23.1
