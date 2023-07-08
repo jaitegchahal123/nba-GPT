@@ -1,4 +1,2 @@
-.streamlit
 .DS_Store
 constants.py
-secrets.toml
