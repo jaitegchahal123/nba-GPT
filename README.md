@@ -1,11 +1,11 @@
 # NBA-GPT
 
+
 ## AI-Powered NBA Statistical Analysis
 
 
+https://github.com/jaitegchahal123/nba-GPT/assets/87345738/d927b9d9-4beb-4c40-8562-67299b3d3073
 
-
-https://github.com/jaitegchahal123/nba-GPT/assets/87345738/8fd6707f-229a-4450-aa08-987821699dd4
 
 
 
